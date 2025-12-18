@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\Usuario\\Desktop\\Aplicaciones\\Ejemplo01\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EC7BD307-BDFC-4E23-9A46-583060DCE09F}|Ejemplo01\\Ejemplo01.csproj|c:\\users\\usuario\\desktop\\aplicaciones\\ejemplo01\\ejemplo01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EC7BD307-BDFC-4E23-9A46-583060DCE09F}|Ejemplo01\\Ejemplo01.csproj|solutionrelative:ejemplo01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BBA9C17A-5F6C-CD5A-E4A2-7DABE89DC68A}|Ejemplo01\\Ejemplo01.csproj|c:\\users\\usuario\\desktop\\aplicaciones\\ejemplo01\\ejemplo01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBA9C17A-5F6C-CD5A-E4A2-7DABE89DC68A}|Ejemplo01\\Ejemplo01.csproj|solutionrelative:ejemplo01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,7 +24,7 @@
               "RelativeDocumentMoniker": "Ejemplo01\\Program.cs",
               "ToolTip": "C:\\Users\\Usuario\\Desktop\\Aplicaciones\\Ejemplo01\\Ejemplo01\\Program.cs",
               "RelativeToolTip": "Ejemplo01\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-18T22:15:43.984Z",
               "EditorCaption": ""
